@@ -1,4 +1,4 @@
-# docker-speednetwork
+# docker-speedtest-tracker
 Monitoriza la velocidad de tu Internet con Speedtest Tracker en Docker.
 
 Github oficial
